@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Al Abed Jafry</h1>
----
 <h3 align="center">👨‍💻 Frontend Focused Full Stack Developer (MERN Stack) from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aajafry&label=Profile%20views&color=0e75b6&style=flat" alt="aajafry" /> </p>
